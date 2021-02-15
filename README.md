@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Gustavo Matei
+- 👀 I’m enthusiast of javascrpt and yours technologies (passionate about ReactJS)
+- 🌱 I’m currently learning about Next.js
