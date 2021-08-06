@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Gustavo Matei
-- 👀 I’m enthusiast of javascript and yours technologies (passionate about ReactJS)
+- 👀 I’m enthusiast of javascript and its technologies (passionate about ReactJS)
 - 🌱 I’m currently learning about Next.js
